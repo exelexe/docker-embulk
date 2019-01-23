@@ -2,6 +2,8 @@
 
 An AlpineLinux Embulk docker container.
 
+![dockeri.co](http://dockeri.co/image/exelexe/embulk)
+
 ## Docker Tags
 
 - [`0.9.13-alpine3.8`, `latest`](https://github.com/exelexe/docker-embulk/tree/master/0.9.13/alpine3.8/Dockerfile)
